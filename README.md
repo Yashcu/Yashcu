@@ -1,7 +1,4 @@
-<!-- Dynamic Header with Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=300&section=header&text=Yash%20Garg&fontSize=80&fontColor=fff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20MERN%20Expert%20%7C%20SDE%20Aspirant&descAlignY=51&descAlign=62" />
-</div>
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Yash. I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 
 <!-- Animated Typing Text -->
 <div align="center">
@@ -197,22 +194,4 @@ CSS          1 hr 15 mins    █░░░░░░░░░░░░░░░░
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashcu/yashcu/output/snake.svg" alt="Snake animation" />
-</div>
-
----
-
-<div align="center">
-  
-### 💫 "Code is like humor. When you have to explain it, it's bad." – Cory House
-
-**Thanks for visiting my profile! Let's connect and build something amazing together! 🚀**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,30,26&height=100&section=footer" />
-
 </div>
