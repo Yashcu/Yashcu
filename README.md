@@ -26,7 +26,6 @@ Currently building something new — will be public soon.
 
 ### Fun Facts
 
-- **LeetCode Knight (Top 5%)** with 1850+ rating and 600+ problems solved.
-- **CodeChef 3⭐ coder** with a max rating of 1627.
-- Secretary of **Next Gen Coder Society**, leading a 100-member team and organizing hackathons with 1000+ participants.
-- I enjoy solving **DSA problems and building real-world backend systems**.
+- I can play the guitar, but I'm better at playing with **APIs**.
+- Probably got more **side projects** than finished Netflix series.
+- More time trying to **name variables** than actually coding..
